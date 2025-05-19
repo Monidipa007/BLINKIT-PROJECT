@@ -74,4 +74,4 @@ Example: High-performing grocery stores may benefit from better layout and promo
 
 🖼️ Screenshot Preview
 Add a screenshot of the Power BI dashboard below
-Screenshot Link → 
+Screenshot Link → (https://github.com/Monidipa007/BLINKIT-PROJECT/blob/main/Screenshot%202025-05-19%20123836.png)
